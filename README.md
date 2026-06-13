@@ -18,4 +18,3 @@ A simple task management application built with Python.
 ## How to Run
 
 python to_do_list.py
-
